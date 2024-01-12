@@ -1,18 +1,18 @@
 # portfolio
 
-- デジタルアーツ太郎
-- 連絡先 Email [a@a.a](mailto:a@a.a)
-- 専門学校デジタルアーツ東京 ゲームプログラムコース 2023年卒業予定
+- テイ　キタク
+- 連絡先 Email [Teikitaku.dat@gmail.com](mailto:Teikitaku.dat@gmail.com)
+- 専門学校デジタルアーツ東京 ゲームプログラムコース 2025年3月卒業予定
 
 ## 資格
 JLPT N2
 
 ## スキル
 - C#
-  - 利用歴〇年
+  - 利用歴1年
   - どの程度使えるか
 - Unity
-  - 利用歴〇年
+  - 利用歴1年
   - どの程度使えるか
 
 
