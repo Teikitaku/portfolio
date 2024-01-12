@@ -44,6 +44,6 @@ JLPT N2
 
 
 ## 連絡先
-- E-mail [a@a.a](mailto:a@a.a)
+- E-mail [Teikitaku.dat@gmail.com](mailto:Teikitaku.dat@gmail.com)
 
 
