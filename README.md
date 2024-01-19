@@ -22,9 +22,9 @@ JLPT N2
 ## 作品リスト
 
 ### 作品名1
-[<img src="images/game1.png" alt="作品名1" style="height: 360px">]()
+[<img src="images/okuru.png" alt="作品名1" style="height: 360px">]()
 
-[作品名1]()
+[おくるゲーム]()
 
 作品概要
 
